@@ -1,4 +1,4 @@
-package ru.job4j.DataProvider;
+package ru.job4j.data.provider;
 
 public class MoodLogRepository {
 }
